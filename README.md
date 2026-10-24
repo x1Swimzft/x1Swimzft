@@ -35,7 +35,7 @@ I build Windows desktop applications focused on **media processing**, **binary f
 
 <div align="center">
 
-<a href="https://github.com/x1Swimzft"><img src="assets/btn-github.svg" alt="github.com/x1Swimzft" height="48"></a>
+<a href="https://github.com/x1Swimzft"><img src="assets/btn-github.svg?v=2" alt="github.com/x1Swimzft" height="48"></a>
 <a href="https://www.tiktok.com/@x1swimzft_"><img src="assets/btn-tiktok.svg" alt="@x1swimzft_ on TikTok" height="48"></a>
 
 <br>
