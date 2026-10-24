@@ -343,7 +343,7 @@ def generate_btn_github() -> str:
 {STYLE_COMMON}
 </style>
 <rect x="1" y="1" width="288" height="46" rx="24" fill="{SEMANTIC['surface']}" stroke="{SEMANTIC['accent']}" stroke-width="1.5"/>
-<text x="24" y="31" class="mono" font-size="16" font-weight="700" fill="{SEMANTIC['accent_hi']}">&lbrace; &rbrace;</text>
+<text x="24" y="31" class="mono" font-size="16" font-weight="700" fill="{SEMANTIC['accent_hi']}">{{ }}</text>
 <text x="62" y="30" class="sans" font-size="16" font-weight="600" fill="{SEMANTIC['text']}">github.com/x1Swimzft</text>
 </svg>"""
 
