@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" role="img" aria-label="Universal Downloader: Media downloader for YouTube (up to 4K), TikTok, Instagram, Facebook, X, and SoundCloud — with a download queue and clipboard watcher.">
+<defs>
+  <linearGradient id="edge_ud" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#e5384f" stop-opacity=".9"/>
+    <stop offset=".45" stop-color="#242432"/>
+    <stop offset="1" stop-color="#242432"/>
+  </linearGradient>
+  <radialGradient id="g_ud" cx="100%" cy="0%" r="75%">
+    <stop offset="0" stop-color="#e5384f" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#e5384f" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<style>
+
+  .sans { font-family: 'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace; }
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation: none !important;
+      opacity: 1 !important;
+      transform: none !important;
+    }
+  }
+
+  .bar {
+    animation: load 3.4s ease-in-out infinite;
+  }
+  @keyframes load {
+    0% { width: 8px; }
+    70%, 100% { width: 140px; }
+  }
+</style>
+<rect x="1" y="1" width="598" height="268" rx="16" fill="#111118"/>
+<rect x="1" y="1" width="598" height="268" rx="16" fill="url(#g_ud)"/>
+<rect x="1" y="1" width="598" height="268" rx="16" fill="none" stroke="url(#edge_ud)" stroke-width="1.5"/>
+
+<text x="32" y="46" class="mono" font-size="13" fill="#ff5a70" letter-spacing="1.5">WINDOWS 11 · DESKTOP</text>
+<text x="32" y="92" class="sans" font-size="31" font-weight="800" fill="#ecebf2" letter-spacing="-.5">Universal Downloader</text>
+<rect x="32" y="106" width="44" height="3" rx="1.5" fill="#e5384f"/>
+<text x="32" y="140" class="sans" font-size="15.5" fill="#c9c8d6">Media downloader for YouTube (up to 4K), TikTok,</text>
+<text x="32" y="164" class="sans" font-size="15.5" fill="#c9c8d6">Instagram, Facebook, X, and SoundCloud — with a</text>
+<text x="32" y="188" class="sans" font-size="15.5" fill="#c9c8d6">download queue and clipboard watcher.</text>
+
+<rect x="32.0" y="214" width="78.4" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="71.2" y="233" class="mono" font-size="13" fill="#c9c8d6" text-anchor="middle">Python</text>
+<rect x="120.4" y="214" width="86.8" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="163.8" y="233" class="mono" font-size="13" fill="#c9c8d6" text-anchor="middle">FastAPI</text>
+<rect x="217.2" y="214" width="95.2" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="264.8" y="233" class="mono" font-size="13" fill="#c9c8d6" text-anchor="middle">Electron</text>
+<rect x="322.4" y="214" width="86.8" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="365.8" y="233" class="mono" font-size="13" fill="#c9c8d6" text-anchor="middle">Next.js</text>
+
+<g transform="translate(404 24)">
+  <rect x="0" y="0" width="164" height="68" rx="10" fill="#0a0a0f" stroke="#242432"/>
+  <path d="M22 20v16m0 0l-7-7m7 7l7-7" fill="none" stroke="#ff5a70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 -2)"/>
+  <text x="46" y="26" class="mono" font-size="13" fill="#c9c8d6">video.mp4</text>
+  <text x="46" y="42" class="mono" font-size="11" fill="#8b8a9c">4K · queued</text>
+  <rect x="12" y="52" width="140" height="6" rx="3" fill="#191923"/>
+  <rect class="bar" x="12" y="52" width="8" height="6" rx="3" fill="#e5384f"/>
+</g>
+</svg>

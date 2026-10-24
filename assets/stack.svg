@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="Technical skills: Python, TypeScript, JavaScript; FastAPI, Electron, Next.js; ISO-BMFF, FFmpeg, yt-dlp pipelines, Windows desktop UI; Git, GitHub Actions">
+<style>
+
+  .sans { font-family: 'Inter','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif; }
+  .mono { font-family: 'JetBrains Mono','Cascadia Code','SF Mono',Consolas,'Liberation Mono',monospace; }
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation: none !important;
+      opacity: 1 !important;
+      transform: none !important;
+    }
+  }
+
+</style>
+<rect width="1000" height="240" rx="16" fill="#0a0a0f" stroke="#242432"/>
+<text x="32" y="45" class="mono" font-size="14" fill="#ff5a70">languages</text>
+<rect x="180.0" y="24" width="78.4" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="219.2" y="43" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">Python</text>
+<rect x="268.4" y="24" width="112.0" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="324.4" y="43" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">TypeScript</text>
+<rect x="390.4" y="24" width="112.0" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="446.4" y="43" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">JavaScript</text>
+<text x="32" y="97" class="mono" font-size="14" fill="#ff5a70">frameworks</text>
+<rect x="180.0" y="76" width="86.8" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="223.4" y="95" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">FastAPI</text>
+<rect x="276.8" y="76" width="95.2" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="324.4" y="95" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">Electron</text>
+<rect x="382.0" y="76" width="86.8" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="425.4" y="95" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">Next.js</text>
+<text x="32" y="149" class="mono" font-size="14" fill="#ff5a70">domains</text>
+<rect x="180.0" y="128" width="95.2" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="227.6" y="147" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">ISO-BMFF</text>
+<rect x="285.2" y="128" width="78.4" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="324.4" y="147" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">FFmpeg</text>
+<rect x="373.6" y="128" width="162.4" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="454.8" y="147" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">yt-dlp pipelines</text>
+<rect x="546.0" y="128" width="179.2" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="635.6" y="147" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">Windows desktop UI</text>
+<text x="32" y="201" class="mono" font-size="14" fill="#ff5a70">tools</text>
+<rect x="180.0" y="180" width="53.2" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="206.6" y="199" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">Git</text>
+<rect x="243.2" y="180" width="145.6" height="28" rx="14" fill="#191923" stroke="#242432"/><text x="316.0" y="199" class="mono" font-size="14" fill="#c9c8d6" text-anchor="middle">GitHub Actions</text>
+</svg>
